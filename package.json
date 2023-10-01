@@ -11,5 +11,12 @@
     "plugin"
   ],
   "author": "Paul Rodwell",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedwiki/wiki-plugin-math.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fedwiki/wiki-plugin-math/issues"
+  }
 }
